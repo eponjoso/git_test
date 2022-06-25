@@ -1,1 +1,0 @@
-print("A mi me guta d'eso")
